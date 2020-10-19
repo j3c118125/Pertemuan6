@@ -1,0 +1,7 @@
+/*.container {
+    background-color: rgb(136, 0, 255);
+}*/
+.bg-purple {
+    background-color: purple;
+    /*color : white; karena pada beranda_v.php udh di deklarasiin pada class jumbotron yaitu text-white*/
+}
